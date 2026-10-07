@@ -1,0 +1,54 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/": [
+      "static/chunks/1zstb30vy3n46.js",
+      "static/chunks/1ez5ropdd3121.js",
+      "static/chunks/10jwavls0cw2n.js",
+      "static/chunks/2p84x2e_1m_sv.js",
+      "static/chunks/1flz5yn8v-ik3.css",
+      "static/chunks/turbopack-206lyysnuwh-1.js"
+    ],
+    "/[meetupId]": [
+      "static/chunks/3427wyacjfh2a.js",
+      "static/chunks/1ez5ropdd3121.js",
+      "static/chunks/2p84x2e_1m_sv.js",
+      "static/chunks/10jwavls0cw2n.js",
+      "static/chunks/0qt0qd_ofdesn.css",
+      "static/chunks/turbopack-0fp-v5wr-vnlm.js"
+    ],
+    "/_app": [
+      "static/chunks/1nwsa2151slsp.js",
+      "static/chunks/1ez5ropdd3121.js",
+      "static/chunks/10jwavls0cw2n.js",
+      "static/chunks/2p84x2e_1m_sv.js",
+      "static/chunks/2365-mm5ysd2z.css",
+      "static/chunks/turbopack-3rnknru3u61so.js"
+    ],
+    "/_error": [
+      "static/chunks/22jljo361gp4y.js",
+      "static/chunks/1ez5ropdd3121.js",
+      "static/chunks/2p84x2e_1m_sv.js",
+      "static/chunks/10jwavls0cw2n.js",
+      "static/chunks/turbopack-1j-ztf24dgq7y.js"
+    ],
+    "/new-meetup": [
+      "static/chunks/0-5_b09vd-c3y.js",
+      "static/chunks/1ez5ropdd3121.js",
+      "static/chunks/10jwavls0cw2n.js",
+      "static/chunks/2p84x2e_1m_sv.js",
+      "static/chunks/1flz5yn8v-ik3.css",
+      "static/chunks/turbopack-0y1n1urfh8owu.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/ZKE7PStTzLKK6YUvQ4HOU/_buildManifest.js",
+    "static/ZKE7PStTzLKK6YUvQ4HOU/_ssgManifest.js",
+    "static/ZKE7PStTzLKK6YUvQ4HOU/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {},
+  "chunkLoadingGlobal": "TURBOPACK"
+};

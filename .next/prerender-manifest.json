@@ -1,0 +1,28 @@
+{
+  "version": 4,
+  "routes": {
+    "/": {
+      "routeType": "page",
+      "response": "complete",
+      "compute": "static",
+      "initialRevalidateSeconds": false,
+      "srcRoute": null,
+      "dataRoute": "/_next/data/ZKE7PStTzLKK6YUvQ4HOU/index.json",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    }
+  },
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "86a809fd7ca8c76f720f32113d5f7d59",
+    "previewModeSigningKey": "f30cfa2de75b280e73c7216fcf4dc780c72783a13a0456347956fda508a12028",
+    "previewModeEncryptionKey": "e6dd0a3e7951223d827ff09af3c85788366190a1c1772347236980ee6ece72c5"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///var/www/react/06-onwards-to-a-bigger-project-starter/pages/[meetupId]/index.js"],"sourcesContent":["function MeetupDetails(props) {\r\n    return (\r\n        <>\r\n            <img\r\n                src={props.image}\r\n                alt={props.title}\r\n            />\r\n            <h1>{props.title}</h1>\r\n            <address>{props.address}</address>\r\n            <p>{props.description}</p>\r\n        </>\r\n    );\r\n}\r\n\r\nexport default MeetupDetails;"],"names":["MeetupDetails","props","src","image","alt","title","address","description"],"mappings":";;;;;;AAAA,SAASA,cAAcC,KAAK;IACxB,qBACI;;0BACI,qKAAC;gBACGC,KAAKD,MAAME,KAAK;gBAChBC,KAAKH,MAAMI,KAAK;;;;;;0BAEpB,qKAAC;0BAAIJ,MAAMI,KAAK;;;;;;0BAChB,qKAAC;0BAASJ,MAAMK,OAAO;;;;;;0BACvB,qKAAC;0BAAGL,MAAMM,WAAW;;;;;;;;;;;;AAGjC;uCAEeP"}}]
+}

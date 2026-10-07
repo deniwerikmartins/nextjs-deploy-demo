@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///var/www/react/06-onwards-to-a-bigger-project-starter/pages/[meetupId]/index.js"],"sourcesContent":["import MeetupDetail from \"../../components/meetups/MeetupDetail\";\r\n\r\nfunction MeetupDetails(props) {\r\n    return (\r\n        <MeetupDetail image=\"https://cdn.pixabay.com/photo/2026/09/10/06/07/r-q-bridge-10467918_1280.jpg\"\r\n                      title=\"First Meetup\"\r\n                      address=\"Some address 5, 12345 Some City\"\r\n                      description=\"This is my first Meetup\"\r\n        />\r\n    );\r\n}\r\n\r\nexport default MeetupDetails;"],"names":["MeetupDetails","props","image","title","address","description"],"mappings":";;;;;AAAA;;;AAEA,SAASA,cAAcC,KAAK;IACxB,qBACI,qKAAC,yIAAY;QAACC,OAAM;QACNC,OAAM;QACNC,SAAQ;QACRC,aAAY;;;;;;AAGlC;uCAEeL"}}]
+}

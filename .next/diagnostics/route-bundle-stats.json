@@ -1,0 +1,52 @@
+[
+  {
+    "route": "/new-meetup",
+    "firstLoadUncompressedJsBytes": 396291,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/0-5_b09vd-c3y.js",
+      ".next/static/chunks/1ez5ropdd3121.js",
+      ".next/static/chunks/10jwavls0cw2n.js",
+      ".next/static/chunks/2p84x2e_1m_sv.js",
+      ".next/static/chunks/turbopack-0y1n1urfh8owu.js",
+      ".next/static/chunks/1nwsa2151slsp.js",
+      ".next/static/chunks/turbopack-3rnknru3u61so.js"
+    ]
+  },
+  {
+    "route": "/",
+    "firstLoadUncompressedJsBytes": 395886,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1zstb30vy3n46.js",
+      ".next/static/chunks/1ez5ropdd3121.js",
+      ".next/static/chunks/10jwavls0cw2n.js",
+      ".next/static/chunks/2p84x2e_1m_sv.js",
+      ".next/static/chunks/turbopack-206lyysnuwh-1.js",
+      ".next/static/chunks/1nwsa2151slsp.js",
+      ".next/static/chunks/turbopack-3rnknru3u61so.js"
+    ]
+  },
+  {
+    "route": "/[meetupId]",
+    "firstLoadUncompressedJsBytes": 395169,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/3427wyacjfh2a.js",
+      ".next/static/chunks/1ez5ropdd3121.js",
+      ".next/static/chunks/2p84x2e_1m_sv.js",
+      ".next/static/chunks/10jwavls0cw2n.js",
+      ".next/static/chunks/turbopack-0fp-v5wr-vnlm.js",
+      ".next/static/chunks/1nwsa2151slsp.js",
+      ".next/static/chunks/turbopack-3rnknru3u61so.js"
+    ]
+  },
+  {
+    "route": "/404",
+    "firstLoadUncompressedJsBytes": 370737,
+    "firstLoadChunkPaths": [
+      ".next/static/chunks/1nwsa2151slsp.js",
+      ".next/static/chunks/1ez5ropdd3121.js",
+      ".next/static/chunks/10jwavls0cw2n.js",
+      ".next/static/chunks/2p84x2e_1m_sv.js",
+      ".next/static/chunks/turbopack-3rnknru3u61so.js"
+    ]
+  }
+]

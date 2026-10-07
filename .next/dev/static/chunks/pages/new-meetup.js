@@ -1,0 +1,15 @@
+__turbopack_load_page_chunks__("/new-meetup", [
+  "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
+  "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
+  "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
+  "static/chunks/node_modules_next_dist_0zk-zb1._.js",
+  "static/chunks/node_modules_next_1m6k6q8._.js",
+  "static/chunks/node_modules_react-dom_cjs_react-dom-client_development_1nq9a-7.js",
+  "static/chunks/node_modules_react-dom_cjs_react-dom_development_0d3scg3.js",
+  "static/chunks/node_modules_react-dom_13voigl._.js",
+  "static/chunks/node_modules_1z0m79v._.js",
+  "static/chunks/[root-of-the-server]__14n6xp3._.js",
+  "static/chunks/components_1vbpvu_._.css",
+  "static/chunks/pages_new-meetup_index_0du2_q-.js",
+  "static/chunks/turbopack-pages_new-meetup_index_01a4-u4.js"
+])
